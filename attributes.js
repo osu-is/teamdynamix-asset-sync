@@ -1,3 +1,9 @@
+/**
+ * NOTE: These values will be different per organization.
+ * Please find the correct values for your TDx instance and replace them.
+ * I've included them in the repo so you can see what variables will be needed.
+ */
+
 module.exports = {
   status: {
     active: 916,
